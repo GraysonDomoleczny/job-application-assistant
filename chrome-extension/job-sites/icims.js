@@ -24,9 +24,12 @@ chrome.runtime.onMessage.addListener((message) => {
         iframe.getElementById("939774_PersonProfileFields.AddressCity").value = personal.city
         iframe.getElementById("939774_PersonProfileFields.AddressZip").value = personal.zipcode
         iframe.getElementById("result-selectable_939774_PersonProfileFields.AddressCountry_0").click()
-        iframe.getElementById("result-selectable_939774_PersonProfileFields.AddressState_16").click()
+        setTimeout(() => {
+            iframe.getElementById("result-selectable_939774_PersonProfileFields.AddressState_16").click()
+        }, 1000)
 
-        iframe.getElementById("rcf3048").value = 'Job Board'
+        iframe.getElementById("rcf3048").value = "Job Board"
+        iframe.getElementById("rcf3048").dispatchEvent(new Event("change", { bubbles: true }))
         iframe.getElementById("rcf3049").value = 'LinkedIn'
 
         iframe.getElementById("3033753_PersonProfileFields.rcf3212").value = "Reyes Holdings"
@@ -45,5 +48,8 @@ chrome.runtime.onMessage.addListener((message) => {
 - Independently downloaded and analyzed 497 Microsoft Orchestrator runbooks using AI-assisted tools, creating an executive overview document to support planning for the migration of on-premises systems to the cloud.`
         iframe.getElementById("3033753_PersonProfileFields.rcf3268").value = 'Internship Completed.'
 
+        setTimeout(() => {
+            iframe.getElementById("cp_form_submit_i").click()
+        }, 1500)
     }
 })

@@ -2,7 +2,7 @@
     // placeholder - address doesnt show on LinkedIn main page
     const address = document.querySelector('asdasdasdasdasd')?.innerText ?? "Not Found"
 
-    const description = document.querySelector('[id^="JobDetails_AboutTheJob_"] [data-testid="expandable-text-box"]')?.innerText ?? "Not Found"
+    const description = document.querySelector('[data-testid="expandable-text-box"]')?.innerText ?? "Not Found"
 
     // Breaks apart data and finds index where location is present then extracts location from string
     const locationInfo = document.querySelector('[data-sdui-screen]')?.innerText ?? ""
