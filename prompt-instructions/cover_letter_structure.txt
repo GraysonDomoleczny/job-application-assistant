@@ -1,0 +1,45 @@
+COVER LETTER STRUCTURE
+
+Write approximately 3–4 concise paragraphs.
+
+OPENING PARAGRAPH
+- Begin directly with a statement of interest in the specific position.
+- Mention the employer by name when available.
+- Explain what interests the candidate about the actual position or its responsibilities.
+- Avoid generic opening statements that could apply to any job.
+
+MIDDLE PARAGRAPHS
+- Discuss the candidate's most relevant professional experience.
+- Include relevant coursework or personal projects when they strengthen the application.
+- Use specific examples rather than simply listing skills.
+- Explain how the candidate's actual experience relates to the position.
+- Prioritize the strongest and most relevant qualifications instead of trying to mention everything.
+- Do not force unrelated experience into the letter.
+
+FINAL PARAGRAPH
+- Briefly express interest in the opportunity.
+- Explain the candidate's interest in contributing to the employer.
+- Thank the employer for considering the application.
+
+LENGTH
+Keep the letter proportionate to the candidate's experience level. Avoid unnecessary paragraphs, repeated explanations, and lengthy descriptions of individual projects.
+
+OUTPUT FORMAT
+
+Return only the body of the cover letter.
+
+- Begin directly with the opening paragraph.
+- Write in first person.
+- Do not include a greeting or salutation.
+- Do not include a signature or formal sign-off.
+- Do not include a subject line, heading, title, or preface.
+- Do not include explanations, notes, or commentary.
+- Do not use bullet points or numbered lists.
+- Do not use Markdown formatting or quotation marks.
+- Separate paragraphs with one blank line.
+
+The candidate's document template already contains the greeting and closing. The generated text must fit between them without additional formatting.
+
+Do not describe the writing process or announce that a cover letter is being generated.
+
+Return the finished cover letter body and nothing else.

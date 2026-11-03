@@ -1,0 +1,36 @@
+KEYWORD SELECTION
+
+Select exactly THREE professional skills or technical keywords for the applicant based on the supplied candidate background and job description.
+
+SELECTION RULES
+
+1. Every selected keyword must be supported by the candidate background.
+2. Prioritize skills that are directly relevant to the position.
+3. Select specific technical skills rather than generic qualities.
+4. Consider professional experience, practical projects, and relevant academic knowledge.
+5. Coursework may support a keyword, but must not be represented as professional experience.
+6. Do not select a technology merely because it appears in the job description.
+7. Do not invent skills, certifications, technologies, or experience.
+8. Avoid generic keywords such as PROBLEM SOLVING, TEAMWORK, COMMUNICATION, and HARD WORK.
+9. Avoid selecting multiple keywords that essentially describe the same skill.
+10. Do not automatically select PYTHON, REST API, or API INTEGRATION for every application. Select them only when they are genuinely relevant.
+11. Choose the strongest available matches, including transferable technical skills when direct experience is limited.
+12. Vary the selected keywords between applications when different qualifications are more relevant.
+
+KEYWORD FORMAT
+
+Return exactly THREE keywords.
+
+- Use ALL CAPS.
+- Separate keywords using exactly this format: KEYWORD 1 | KEYWORD 2 | KEYWORD 3
+- Use spaces between words in multiword keywords.
+- Do not use underscores.
+- Do not include sentences, explanations, headings, bullets, quotation marks, or additional text.
+
+The final response must contain only the three selected keywords.
+
+CANDIDATE BACKGROUND AND JOB DESCRIPTION
+
+Use the candidate background supplied separately as the source of truth for the applicant's qualifications.
+
+Use the supplied job description to determine relevance, not to infer additional qualifications.

@@ -1,0 +1,105 @@
+CANDIDATE BACKGROUND — EXAMPLE TEMPLATE
+
+Replace all bracketed placeholders with information that is accurate for the candidate. Remove sections that do not apply. Do not leave placeholder text in the actual candidate_background.txt file.
+
+This document contains the candidate's education, skills, professional experience, and personal projects. Use it as the factual source for all claims about the candidate. Do not infer additional qualifications from a job description.
+
+EDUCATION
+
+[UNIVERSITY OR COLLEGE]
+[DEGREE AND FIELD OF STUDY]
+[EXPECTED GRADUATION DATE OR COMPLETION DATE]
+[GPA, IF THE CANDIDATE WANTS TO INCLUDE IT]
+[ACADEMIC HONORS OR RELEVANT ACHIEVEMENTS, IF APPLICABLE]
+
+[ADDITIONAL INSTITUTION, IF APPLICABLE]
+[DEGREE OR CREDENTIAL]
+[COMPLETION DATE]
+[HONORS OR RELEVANT ACHIEVEMENTS, IF APPLICABLE]
+
+Relevant Coursework:
+[LIST RELEVANT COMPLETED OR CURRENT COURSES. IDENTIFY COURSES THAT ARE IN PROGRESS.]
+
+Certifications:
+[LIST ONLY CERTIFICATIONS ACTUALLY EARNED, INCLUDING ISSUER AND DATE IF RELEVANT.]
+[STATE RELEVANT COURSEWORK OR TRAINING SEPARATELY. DO NOT PRESENT COURSEWORK AS A CERTIFICATION.]
+
+TECHNICAL SKILLS
+
+Programming:
+[LANGUAGES AND ACCURATE EXPERIENCE LEVELS]
+
+Application Development:
+[FRAMEWORKS, LIBRARIES, AND DEVELOPMENT AREAS]
+
+Data and Integration:
+[DATABASES, QUERY LANGUAGES, APIS, DATA VALIDATION, OR INTEGRATION SKILLS]
+
+Development Tools:
+[DEVELOPMENT ENVIRONMENTS, VERSION CONTROL, PLATFORMS, AND OTHER TOOLS]
+
+IT and Infrastructure:
+[OPERATING SYSTEMS, NETWORKING, HARDWARE, CLOUD, SECURITY, OR SYSTEMS SKILLS]
+
+Experience Levels:
+- Professional experience: [SKILLS USED IN PAID EMPLOYMENT OR AN INTERNSHIP]
+- Personal project experience: [SKILLS USED IN INDEPENDENT OR PERSONAL PROJECTS]
+- Academic experience: [SKILLS OR TOPICS STUDIED IN COURSEWORK]
+- Basic familiarity: [SKILLS THE CANDIDATE HAS ONLY INTRODUCTORY KNOWLEDGE OF]
+Do not describe a skill as professional experience unless the candidate used it in a professional role. Do not describe coursework or basic familiarity as advanced proficiency.
+
+PROFESSIONAL EXPERIENCE
+
+[EMPLOYER] — [LOCATION, IF APPROPRIATE]
+[JOB TITLE]
+[EMPLOYMENT DATES]
+
+[ONE OR TWO SENTENCES DESCRIBING THE ROLE AND ITS ACTUAL SCOPE.]
+
+Responsibilities and Accomplishments:
+- [SPECIFIC TASK OR ACCOMPLISHMENT, INCLUDING TOOLS USED WHEN ACCURATE]
+- [SPECIFIC TASK OR ACCOMPLISHMENT, INCLUDING THE CANDIDATE'S CONTRIBUTION]
+- [RESULT OR OUTCOME, ONLY WHEN IT IS DOCUMENTED AND CAN BE ACCURATELY DESCRIBED]
+[ADDITIONAL PROJECT OR RESPONSIBILITY, IF APPLICABLE]
+- [WHAT THE CANDIDATE ACTUALLY DID]
+- [TECHNOLOGIES OR TOOLS ACTUALLY USED]
+- [OUTCOME, IF KNOWN]
+Do not invent responsibilities, technologies, outcomes, metrics, or accomplishments. Distinguish individual contributions from work completed by a team.
+
+PERSONAL AND ACADEMIC PROJECTS
+
+[PROJECT NAME]
+[PERSONAL PROJECT / ACADEMIC PROJECT / TEAM PROJECT]
+[COMPLETED / IN PROGRESS]
+- [WHAT THE PROJECT DOES]
+- [WHAT THE CANDIDATE PERSONALLY BUILT, CONFIGURED, OR CONTRIBUTED]
+- [TECHNOLOGIES AND TOOLS ACTUALLY USED]
+- [FUNCTIONALITY COMPLETED AND TESTED, IF APPLICABLE]
+[ADDITIONAL PROJECT, IF APPLICABLE]
+[PROJECT TYPE AND STATUS]
+- [DESCRIPTION OF ACTUAL WORK]
+- [TOOLS AND TECHNOLOGIES USED]
+- [RESULTS OR FUNCTIONALITY, IF VERIFIED]
+Clearly distinguish completed functionality from planned or ongoing work. Do not present personal or academic projects as professional employment.
+
+AREAS OF LIMITED EXPERIENCE
+
+Use this section to clarify important distinctions and prevent overstatement. Include only distinctions relevant to the candidate.
+- [TECHNOLOGY OR SUBJECT]: [COURSEWORK, BASIC FAMILIARITY, PERSONAL PROJECT USE, OR OTHER ACCURATE LIMITATION]
+- [TECHNOLOGY OR SUBJECT]: [WHAT THE CANDIDATE HAS AND HAS NOT DONE]
+- [CERTIFICATION OR QUALIFICATION]: [STATE WHETHER IT IS HELD, IN PROGRESS, OR NOT HELD, WHEN CLARIFICATION IS NECESSARY]
+Do not claim experience, proficiency, or certifications beyond what is explicitly documented above.
+
+CAREER INTERESTS
+
+Interested in entry-level opportunities involving:
+- [CAREER AREA]
+- [CAREER AREA]
+- [CAREER AREA]
+These interests are guidelines, not restrictions. Select qualifications based on the actual responsibilities of each position.
+
+FINAL FACTUAL GUIDANCE
+
+The information in this document is the sole source of truth about the candidate. Job descriptions describe employer requirements; they do not establish that the candidate possesses those qualifications.
+
+If a qualification, technology, responsibility, certification, or accomplishment is not supported by this document, do not include it in application materials. When uncertain, omit the claim rather than guessing.
