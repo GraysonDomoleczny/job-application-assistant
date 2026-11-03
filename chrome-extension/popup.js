@@ -8,13 +8,13 @@ chrome.runtime.onMessage.addListener((message) => {
 
 
 // Gets the active tab ID, and the domain of the current webpage.
-chrome.tabs.query({active: true, currentWindow: true}, async (tabs) => {
+chrome.tabs.query({ active: true, currentWindow: true }, async (tabs) => {
     const tabId = tabs[0].id
     const domain = new URL(tabs[0].url).hostname
 
     if (domain.endsWith("linkedin.com")) {
         await chrome.scripting.executeScript({
-            target: {tabId},
+            target: { tabId: tabId },
             files: ["job-sites/linkedin.js"]
         })
 
@@ -29,18 +29,18 @@ chrome.tabs.query({active: true, currentWindow: true}, async (tabs) => {
     }
 })
 
-       
+
 // Sends job data to the local Python backend as a POST request.
 async function sendData(data) {
     await fetch("http://127.0.0.1:8000/", {
         method: "POST",
-        headers: {"Content-Type": "application/json"},
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data)
     })
 }
 
 // Handles button clicks by specifying the requested action and sending the job data.
-document.getElementById("generateLetter").addEventListener("click", () => { 
+document.getElementById("generateLetter").addEventListener("click", () => {
     job_posting.action = "generateLetter"
     sendData(job_posting)
 })
