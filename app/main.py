@@ -1,12 +1,11 @@
 from fastapi import FastAPI
-from google_doc_access import google_doc_access
-from google_sheet_access import google_sheet_access
-from ollama_generation import ollama_generation
+from app.google_api_access.google_doc_access import google_doc_access
+from app.google_api_access.google_sheet_access import google_sheet_access
+from app.ollama_generation import ollama_generation
 import webbrowser
 from datetime import date
 from dotenv import load_dotenv
 import os
-from pathlib import Path
 
 
 def cover_letter_updates(job, doc_id, doc_service):

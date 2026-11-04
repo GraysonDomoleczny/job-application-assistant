@@ -1,21 +1,21 @@
 import requests
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+PROMPT_DIR = BASE_DIR / "prompt-instructions"
 
 
 def ollama_generation(job_description):
-    with open(
-        "prompt-instructions/candidate_background.txt", "r", encoding="utf-8"
-    ) as file:
+    with open(PROMPT_DIR / "candidate_background.txt", "r", encoding="utf-8") as file:
         candidate_background = file.read()
 
-    with open(
-        "prompt-instructions/cover_letter_structure.txt", "r", encoding="utf-8"
-    ) as file:
+    with open(PROMPT_DIR / "cover_letter_structure.txt", "r", encoding="utf-8") as file:
         cover_letter_structure = file.read()
 
-    with open("prompt-instructions/writing_style.txt", "r", encoding="utf-8") as file:
+    with open(PROMPT_DIR / "writing_style.txt", "r", encoding="utf-8") as file:
         writing_style = file.read()
 
-    with open("prompt-instructions/key_words.txt", "r", encoding="utf-8") as file:
+    with open(PROMPT_DIR / "key_words.txt", "r", encoding="utf-8") as file:
         key_words = file.read()
 
     description_response = requests.post(
